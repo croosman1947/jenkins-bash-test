@@ -10,5 +10,5 @@ echo "The sum is $sum"
 
 echo "Script finished --------------------"
 
-echo "HOOK TEST"
+echo "HOOK TEST v2"
 
